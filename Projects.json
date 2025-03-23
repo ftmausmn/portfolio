@@ -3,18 +3,18 @@
     "title": "React Portfolio Template",
     "description": "A modern and responsive portfolio template built with React and Bootstrap.",
     "image": "https://tse3.mm.bing.net/th?id=OIP.UKQTqcuclH5azTtQUoI_-QHaE8&pid=Api&P=0&h=220",
-    "githubLink": "https://raw.githubusercontent.com/ftmausmn/portfolio/refs/heads/main/Projects.json"
+    "githubLink": "https://github.com/ftmausmn/portfolio/tree/main"
   },
   {
     "title": "Task Manager App",
     "description": "A simple task manager application built with Node.js and MongoDB.",
     "image": "https://tse2.mm.bing.net/th?id=OIP.rwRUEq9juiiS1WPbGRBSCAAAAA&pid=Api&P=0&h=220",
-    "githubLink": "https://raw.githubusercontent.com/ftmausmn/portfolio/refs/heads/main/Projects.json"
+    "githubLink": "https://github.com/ftmausmn/portfolio/tree/main"
   },
   {
     "title": "E-Commerce Website",
     "description": "A fully functional e-commerce website built with React and Firebase.",
     "image": "https://tse1.mm.bing.net/th?id=OIP.QiN75AimzB2_NW5jLoHWWQHaD3&pid=Api&P=0&h=220",
-    "githubLink": "https://raw.githubusercontent.com/ftmausmn/portfolio/refs/heads/main/Projects.json"
+    "githubLink": "https://github.com/ftmausmn/portfolio/tree/main"
   }
 ]
