@@ -1,0 +1,20 @@
+[
+  {
+    "title": "React Portfolio Template",
+    "description": "A modern and responsive portfolio template built with React and Bootstrap.",
+    "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/project1.jpg",
+    "githubLink": "https://github.com/yourusername/react-portfolio-template"
+  },
+  {
+    "title": "Task Manager App",
+    "description": "A simple task manager application built with Node.js and MongoDB.",
+    "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/project2.jpg",
+    "githubLink": "https://github.com/yourusername/task-manager-app"
+  },
+  {
+    "title": "E-Commerce Website",
+    "description": "A fully functional e-commerce website built with React and Firebase.",
+    "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/project3.jpg",
+    "githubLink": "https://github.com/yourusername/ecommerce-website"
+  }
+]
